@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\test\\Account\\Accountwin\\Accountwin.csproj": {}
+    "C:\\Account\\Account\\Accountwin\\Accountwin.csproj": {}
   },
   "projects": {
-    "C:\\test\\Account\\Accountwin\\Accountwin.csproj": {
+    "C:\\Account\\Account\\Accountwin\\Accountwin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\test\\Account\\Accountwin\\Accountwin.csproj",
+        "projectUniqueName": "C:\\Account\\Account\\Accountwin\\Accountwin.csproj",
         "projectName": "Accountwin",
-        "projectPath": "C:\\test\\Account\\Accountwin\\Accountwin.csproj",
+        "projectPath": "C:\\Account\\Account\\Accountwin\\Accountwin.csproj",
         "packagesPath": "C:\\Users\\prach\\.nuget\\packages\\",
-        "outputPath": "C:\\test\\Account\\Accountwin\\obj\\",
+        "outputPath": "C:\\Account\\Account\\Accountwin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prach\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\test\\Account\\PasswordCheck2\\PasswordCheck2.csproj": {
-                "projectPath": "C:\\test\\Account\\PasswordCheck2\\PasswordCheck2.csproj"
+              "C:\\Account\\Account\\PasswordCheck2\\PasswordCheck2.csproj": {
+                "projectPath": "C:\\Account\\Account\\PasswordCheck2\\PasswordCheck2.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\test\\Account\\PasswordCheck2\\PasswordCheck2.csproj": {
+    "C:\\Account\\Account\\PasswordCheck2\\PasswordCheck2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\test\\Account\\PasswordCheck2\\PasswordCheck2.csproj",
+        "projectUniqueName": "C:\\Account\\Account\\PasswordCheck2\\PasswordCheck2.csproj",
         "projectName": "PasswordCheck2",
-        "projectPath": "C:\\test\\Account\\PasswordCheck2\\PasswordCheck2.csproj",
+        "projectPath": "C:\\Account\\Account\\PasswordCheck2\\PasswordCheck2.csproj",
         "packagesPath": "C:\\Users\\prach\\.nuget\\packages\\",
-        "outputPath": "C:\\test\\Account\\PasswordCheck2\\obj\\",
+        "outputPath": "C:\\Account\\Account\\PasswordCheck2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prach\\AppData\\Roaming\\NuGet\\NuGet.Config",
